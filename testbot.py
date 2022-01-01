@@ -7,7 +7,7 @@ import pafy
 client = discord.Client()
 client = commands.Bot(command_prefix='!^!')
 
-token = "OTIxNTY4MTM1MDUwNTcxODU3.Yb0zNQ.uKKeHCHPXEmVQu6_UkplgHahP_w"
+token = "NoTokenForYouYee"
 
 @client.event
 async def on_message(message):
