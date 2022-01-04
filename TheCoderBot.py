@@ -8,7 +8,7 @@ from youtube_dl import YoutubeDL
 client = discord.Client()
 client = commands.Bot(command_prefix='C~ ')
 
-token = "OTIxNTY4MTM1MDUwNTcxODU3.Yb0zNQ.oayDydNkqGFdQURmnFFKHyEKAMI"
+token = "NoTokenForYou"
 
 joined_voice_channel = False
 
